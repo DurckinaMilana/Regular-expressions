@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6m6uwc5s9gp8l64i?svg=true)](https://ci.appveyor.com/project/DurckinaMilana/regular-expressions)
